@@ -1,6 +1,8 @@
 # Random-Forest-from-Scratch
 ## Overview
 
+This repo contains the code for this YouTube playlist: https://www.youtube.com/watch?v=WvmPnGmCaIM&list=PLPOTBrypY74y0DviMOagKRUhDdk0JyM_r
+
 This repo is about coding a random forest classifier from scratch. The code for the decision tree algorithm
 that is needed for the random forest is from this repo: https://github.com/SebastianMantey/Decision-Tree-from-Scratch
 
