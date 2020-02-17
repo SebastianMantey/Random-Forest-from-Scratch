@@ -1,17 +1,8 @@
 # Random-Forest-from-Scratch
-## Overview
 
-This repo contains the code for this YouTube playlist: https://www.youtube.com/watch?v=WvmPnGmCaIM&list=PLPOTBrypY74y0DviMOagKRUhDdk0JyM_r
+This is the repo for my YouTube playlist ["Coding a Random Forest from Scratch"](https://www.youtube.com/watch?v=WvmPnGmCaIM&list=PLPOTBrypY74y0DviMOagKRUhDdk0JyM_r). The goal is to code a random forest classifier from scratch using just NumPy and Pandas.
 
-This repo is about coding a random forest classifier from scratch. The code for the decision tree algorithm
-that is needed for the random forest is from this repo: https://github.com/SebastianMantey/Decision-Tree-from-Scratch
-
-## Dependencies
-
-- numpy
-- pandas
+PS: The “html_files”-folder is just included in the repo so that I can embed the notebooks into the respective [blog posts](https://www.sebastian-mantey.com/code-blog/coding-a-random-forest-from-scratch-python-p1-introduction) on my website.
 
 ## Credits
-- The red wine data set comes from here: https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009
-- The Iris flower data set comes from here: https://www.kaggle.com/uciml/iris
-- The Titanic data set comes from here: https://www.kaggle.com/c/titanic
+- [Red Wine data set](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009)
